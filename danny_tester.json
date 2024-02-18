@@ -1,7 +1,8 @@
 {
 	{
     "test":true,
-    "update":{
+    "update":
+		{
         "currentBuildDate":"2402171",
         "host":null,
         "thumbnail":"https://i.imgur.com/dzGdrYy.jpeg",
