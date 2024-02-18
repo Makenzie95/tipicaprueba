@@ -1,12 +1,9 @@
 {
-	{
-    "test":true,
-    "update":
-		{
-        "currentBuildDate":"2402171",
-        "host":null,
-        "thumbnail":"https://i.imgur.com/dzGdrYy.jpeg",
-		"title":"Have a nice day!"
-        }
-    }
+   "test":true,
+   "update":{
+      "currentBuildDate":"2402171",
+      "host":null,
+      "thumbnail":"https://i.imgur.com/dzGdrYy.jpeg",
+      "title":"Have a nice day!"
+   }
 }
